@@ -4,8 +4,8 @@ Este repositorio contiene las actividades realizadas y aprendidas durante el ter
 
 - Programacion orientada a objetos (POO)
 - Flask + Jinja2
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Bootstrap
 - Refactorizacion
 - Mejoramiento de bucles while
