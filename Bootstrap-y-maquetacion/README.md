@@ -28,14 +28,14 @@ Archivo patrocinadores.html Contenido; Socios y Apoyos, Descripción, Informaci�
 
 🔥 RESULTADOS;
 
-<img width="1870" height="919" alt="image" src="https://github.com/user-attachments/assets/75b9b746-70d3-42f9-9317-aadf7767265c" />
 
-<img width="1873" height="913" alt="image" src="https://github.com/user-attachments/assets/fcf126a5-bf67-43c5-8652-2736ba6d89fe" />
+<img width="1536" height="905" alt="image" src="https://github.com/user-attachments/assets/57717f4b-e7ff-4dee-baa5-a1c8b6720e6f" />
 
-<img width="1870" height="913" alt="image" src="https://github.com/user-attachments/assets/3b79b87f-5c1b-4615-a53b-bbeaaf463448" />
+<img width="1524" height="834" alt="image" src="https://github.com/user-attachments/assets/3a3b99bb-44c3-4d05-9589-457d6a369f60" />
 
-<img width="1831" height="885" alt="image" src="https://github.com/user-attachments/assets/23f4ba11-c1d0-4f45-9dce-c8931363898a" />
+<img width="1542" height="888" alt="image" src="https://github.com/user-attachments/assets/8ee22c24-fe5c-450e-82ea-131a64f3dd62" />
 
-<img width="1882" height="908" alt="image" src="https://github.com/user-attachments/assets/5d484163-d138-468b-b94a-f6cb508605f3" />
+<img width="1541" height="906" alt="image" src="https://github.com/user-attachments/assets/c37aa6df-39ec-4c4a-beba-e126b61c1957" />
 
-<img width="1792" height="904" alt="image" src="https://github.com/user-attachments/assets/9de7d956-5a3a-4230-ab53-5360041944f8" />
+<img width="1547" height="909" alt="image" src="https://github.com/user-attachments/assets/91139d40-f263-4dd5-ac60-bb55cf224268" />
+
