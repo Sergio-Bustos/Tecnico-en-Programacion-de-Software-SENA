@@ -6,3 +6,4 @@ Este repositorio contiene las actividades realizadas y aprendidas durante el seg
 - Mejoras en estructuramiento de condicionales.
 - Bucles.
 - Investigaciones individuales acerca de librerias,funciones,etc.
+- Bases de datos en PostgreSQL y MySQL Workbench
